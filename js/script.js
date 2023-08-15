@@ -68,7 +68,7 @@ function playVideo_Level1() {
   dialogDocument.close();
 }
 function playVideo_Level2() {
-  var videoUrl = "videos/level2.mp4";
+  var videoUrl = "videos/Level2.mp4";
   var dialogWidth = screen.width * 0.8;
   var dialogHeight = screen.height * 0.8;
   var dialogTop = (screen.height - dialogHeight) / 2;
